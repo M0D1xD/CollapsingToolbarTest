@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Is2alnyApp</string>
+    <string name="default_notification_channel_id" translatable="false">com.is2alny.is2alnyapp</string>
+    <string name="ar_not_alone" translatable="false">انت   لست   وحدك!</string>
+    <string name="en_not_alone" translatable="false">You are not alone!</string>
+    <string name="en_hello" translatable="false">Hello!</string>
+    <string name="ar_hello" translatable="false">اهـلا!</string>
+    <string name="tv_lang_choose" translatable="false">!اختار لغتك المفضلة\nChoose your Language</string>
+    <string name="text_your_email">Your Email</string>
+    <string name="tv_username">Your Name</string>
+    <string name="text_password">Password</string>
+    <string name="tv_register">Register</string>
+    <string name="or_sign_in_with">Or Sign in with facebook</string>
+    <string name="tv_have_account">Already have an account?</string>
+    <string name="tv_sign_in_here">Sign in here</string>
+    <string name="tv_sign_in">Sign In</string>
+    <string name="text_don_t_have_account">Don\'t have account ?</string>
+    <string name="text_create_it_here">Create it here</string>
+    <string name="text_forgot_your_password">Forgot Your Password ?</string>
+    <string name="tv_upload_instructions">Upload\nyour profile\nphoto</string>
+    <string name="photo_successfully_added">Photo successfully added</string>
+    <string name="tv_continue">Continue</string>
+    <!--Terms And Conditions-->
+
+    <!--//**************** TERMS AND CONDITIONS Headers ****************-->
+    <string name="title_agreement"><![CDATA[I Agree to the\nTerms & Conditions]]></string>
+    <string name="header_user_content">User content</string>
+    <string name="header_accounts_and_membership">Accounts and membership</string>
+    <string name="header_backups">Backups</string>
+    <string name="header_advertisements">Advertisements</string>
+    <string name="header_links_to_other_mobile_applications">Links to other mobile applications</string>
+    <string name="header_prohibited_uses">Prohibited uses</string>
+    <string name="header_disclaimer_of_warranty">Disclaimer of warranty</string>
+    <string name="header_limitation_of_liability">Limitation of liability</string>
+    <string name="header_indemnification">Indemnification</string>
+    <string name="header_severability">Severability</string>
+    <string name="header_acceptance_to_these_terms">Acceptance to these terms</string>
+    <string name="header_contacting_us">Contacting us</string>
+    <string name="header_changes_and_amendments">Changes And Amendments</string>
+
+    <!--//**************** TERMS AND CONDITIONS Content ****************-->
+    <string name="termsAndConditions">These terms and conditions (“Terms”, “Agreement”) are an agreement between Brandicon (“Brandicon”, “us”, “we” or “our”) and you (“User”, “you” or “your”). This Agreement sets forth the general terms and conditions of your use of the Is2alny mobile application and any of its products or services (collectively, “Mobile Application” or “Services”).</string>
+    <string name="accountsAndMembership">You must be at least 13 years of age to use this Mobile Application. By using this Mobile Application and by agreeing to this Agreement you warrant and represent that you are at least 13 years of age. If you create an account in the Mobile Application, you are responsible for maintaining the security of your account and you are fully responsible for all activities that occur under the account and any other actions taken in connection with it. We may monitor and review new accounts before you may sign in and use our Services. Providing false contact information of any kind may result in the termination of your account. You must immediately notify us of any unauthorized uses of your account or any other breaches of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions. We may suspend, disable, or delete your account (or any part thereof) if we determine that you have violated any provision of this Agreement or that your conduct or content would tend to damage our reputation and goodwill. If we delete your account for the foregoing reasons, you may not re-register for our Services. We may block your email address and Internet protocol address to prevent further registration.</string>
+    <string name="userContent">We do not own any data, information or material (“Content”) that you submit in the Mobile Application in the course of using the Service. You shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all submitted Content. We may, but have no obligation to, monitor and review Content in the Mobile Application submitted or created using our Services by you. Unless specifically permitted by you, your use of the Mobile Application does not grant us the license to use, reproduce, adapt, modify, publish or distribute the Content created by you or stored in your user account for commercial, marketing or any similar purpose. But you grant us permission to access, copy, distribute, store, transmit, reformat, display and perform the Content of your user account solely as required for the purpose of providing the Services to you. Without limiting any of those representations or warranties, we have the right, though not the obligation, to, in our own sole discretion, refuse or remove any Content that, in our reasonable opinion, violates any of our policies or is in any way harmful or objectionable.</string>
+    <string name="backups">We perform regular backups of the Content and will do our best to ensure completeness and accuracy of these backups. In the event of the hardware failure or data loss we will restore backups automatically to minimize the impact and downtime.</string>
+    <string name="advertisements">During use of the Mobile Application, you may enter into correspondence with or participate in promotions of advertisers or sponsors showing their goods or services through the Mobile Application. Any such activity, and any terms, conditions, warranties or representations associated with such activity, is solely between you and the applicable third-party. We shall have no liability, obligation or responsibility for any such correspondence, purchase or promotion between you and any such third-party.</string>
+    <string name="linksToOtherMobile">Although this Mobile Application may link to other mobile applications, we are not, directly or indirectly, implying any approval, association, sponsorship, endorsement, or affiliation with any linked mobile application, unless specifically stated herein. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any businesses or individuals or the content of their mobile applications. We do not assume any responsibility or liability for the actions, products, services, and content of any other third-parties. You should carefully review the legal statements and other conditions of use of any mobile application which you access through a link from this Mobile Application. Your linking to any other off-site mobile applications is at your own risk.</string>
+    <string name="prohibitedUses">In addition to other terms as set forth in the Agreement, you are prohibited from using the Mobile Application or its Content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; © to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related mobile application, other mobile applications, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related mobile application, other mobile applications, or the Internet. We reserve the right to terminate your use of the Service or any related mobile application for violating any of the prohibited uses.</string>
+    <string name="disclaimer">You agree that your use of our Mobile Application or Services is solely at your own risk. You agree that such Service is provided on an “as is” and “as available” basis. We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose and non-infringement. We make no warranty that the Services will meet your requirements, or that the Service will be uninterrupted, timely, secure, or error-free; nor do we make any warranty as to the results that may be obtained from the use of the Service or as to the accuracy or reliability of any information obtained through the Service or that defects in the Service will be corrected. You understand and agree that any material and/or data downloaded or otherwise obtained through the use of Service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download of such material and/or data. We make no warranty regarding any goods or services purchased or obtained through the Service or any transactions entered into through the Service. No advice or information, whether oral or written, obtained by you from us or through the Service shall create any warranty not expressly made herein.</string>
+    <string name="limitationOfLiability">To the fullest extent permitted by applicable law, in no event will Brandicon, its affiliates, officers, directors, employees, agents, suppliers or licensors be liable to any person for (a): any indirect, incidental, special, punitive, cover or consequential damages (including, without limitation, damages for lost profits, revenue, sales, goodwill, use or content, impact on business, business interruption, loss of anticipated savings, loss of business opportunity) however caused, under any theory of liability, including, without limitation, contract, tort, warranty, breach of statutory duty, negligence or otherwise, even if Brandicon has been advised as to the possibility of such damages or could have foreseen such damages. To the maximum extent permitted by applicable law, the aggregate liability of Brandicon and its affiliates, officers, employees, agents, suppliers and licensors, relating to the services will be limited to an amount greater of one dollar or any amounts actually paid in cash by you to Brandicon for the prior one month period prior to the first event or occurrence giving rise to such liability. The limitations and exclusions also apply if this remedy does not fully compensate you for any losses or fails of its essential purpose.</string>
+    <string name="indemnification">You agree to indemnify and hold Brandicon and its affiliates, directors, officers, employees, and agents harmless from and against any liabilities, losses, damages or costs, including reasonable attorneys’ fees, incurred in connection with or arising from any third-party allegations, claims, actions, disputes, or demands asserted against any of them as a result of or relating to your Content, your use of the Mobile Application or Services or any willful misconduct on your part.</string>
+    <string name="severability">All rights and restrictions contained in this Agreement may be exercised and shall be applicable and binding only to the extent that they do not violate any applicable laws and are intended to be limited to the extent necessary so that they will not render this Agreement illegal, invalid or unenforceable. If any provision or portion of any provision of this Agreement shall be held to be illegal, invalid or unenforceable by a court of competent jurisdiction, it is the intention of the parties that the remaining provisions or portions thereof shall constitute their agreement with respect to the subject matter hereof, and all such remaining provisions or portions thereof shall remain in full force and effect.</string>
+    <string name="ChangesAndAmendments">We reserve the right to modify this Agreement or its policies relating to the Mobile Application or Services at any time, effective upon posting of an updated version of this Agreement in the Mobile Application. When we do, we will revise the updated date at the bottom of this page. Continued use of the Mobile Application after any such changes shall constitute your consent to such changes.</string>
+    <string name="acceptanceTerms">You acknowledge that you have read this Agreement and agree to all its terms and conditions. By using the Mobile Application or its Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Mobile Application and its Services.</string>
+    <string name="contactingUs">If you have any questions about this Agreement, please contact us.\n\nThis document was last updated on May 2, 2019</string>
+
+
+    <string name="ch_terms_agreement">Yes , I agree to the <u><b>Terms &amp; Conditions</b></u> and <u><b>Privacy Policy</b></u></string>
+    <string name="tv_agree">AGREE</string>
+
+    <string name="language_effects">Language will be changed after application restarts</string>
+
+    <string name="error_name_required">Name is required</string>
+    <string name="error_name_empty">Name should not be empty</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_pattern">Not Valid Email </string>
+    <string name="error_invalid_email_password">Invalid email or password</string>
+    <string name="error_email_already_in_use">Email already Exist</string>
+    <string name="error_connection">Please check the internet connection</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be more than 6 letters</string>
+    <string name="error_password_invalid">The password is invalid</string>
+    <string name="error_password_empty">Password should not be empty</string>
+    <string name="error_city_empty">City should not be empty</string>
+    <string name="error_verification_required">Your Email Need Verification Please Verify your Email otherwise you wont be able to ask questions or reply to questions . if you haven\'t receive verification email click here </string>
+    <string name="require_verification">Email Verification Required</string>
+    <string name="send">Send</string>
+    <string name="text_info_signup">Already have an account? Sign in here</string>
+
+    <!--//***************** Menu Text **********************-->
+    <string name="menu_answers_given">Answers Given</string>
+    <string name="menu_my_questions">My Questions</string>
+    <string name="menu_my_answers">My Answers</string>
+    <string name="menu_questions_followed">Questions Followed</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_recent_questions">Recent questions</string>
+    <string name="menu_must_read_questions">Must read questions</string>
+    <string name="menu_hot_questions">Hot questions</string>
+    <string name="menu_trending_answers">Trending answers</string>
+    <string name="menu_view_all_categories">View all categories</string>
+    <string name="menu_questions_by_city">Questions by City</string>
+    <string name="menu_privacy_policy">Privacy Policy</string>
+    <string name="menu_contact_us">Contact us</string>
+    <string name="menu_terms"><![CDATA[Terms & Conditions]]></string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="click_to_ask_question">Click here to ask a question</string>
+    <string name="recent_questions">Recent Questions</string>
+
+    <string-array name="sorts">
+        <item>Sort By</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>All Categories</item>
+        <item>Automotives</item>
+        <item>Beauty</item>
+        <item>Business</item>
+        <item>Economics</item>
+        <item>Education</item>
+        <item>Electronics</item>
+        <item>HomeAppliances</item>
+        <item>Food</item>
+        <item>Government Services</item>
+        <item>Health</item>
+        <item>History</item>
+        <item> Kids Family</item>
+        <item>Relationships</item>
+        <item>Science</item>
+        <item>Technology</item>
+        <item>Travel</item>
+
+    </string-array>
+    <string name="dummy1">What countries can I travel to that do not require a visa and are nice to visit?</string>
+    <string name="dummy2">Where can I find a relevant developer to work on my website in a short tim…</string>
+    <string name="dummy3">Who knows where I find a plumber?</string>
+    <string name="dummy_answer">Lorem ipsum dolor sit amet, consectetuer scing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliLorem ipsum.</string>
+    <string name="my_followings">My Followings</string>
+    <string name="dummy_question">What countries can I travel to that do not require a visa and are nice to visit?</string>
+    <string name="dummy_notification1">Replied to your comment.</string>
+    <string name="dummy_notification2">Answered your question.</string>
+    <string name="question_one_title">1. What’s your question?</string>
+    <string name="question_one_hint">Start your question with How, Why, What etc…</string>
+    <string name="question_two_title">2. Describe your question</string>
+    <string name="question_two_hint">Describe your question to help others understand …</string>
+    <string name="question_three_title">3. Where would you like to ask</string>
+    <string name="question_four_title">4. Add pictures to your question if you like</string>
+    <string name="question_moderator_approval">Your question has been submitted for moderation.\nYou will receive a notification once it has been approved and posted.</string>
+    <string name="question_thank_you">THANK YOU</string>
+    <string name="ask_a_question">Ask A Question!</string>
+    <string name="complete">Complete</string>
+    <string name="EDIT">Edit</string>
+    <string name="DONE">Done</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="DASH">-</string>
+    <string-array name="languages">
+        <item>English Language</item>
+        <item>Arabic Language</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Choose Country</item>
+        <item>Country 1 </item>
+        <item>Country 2</item>
+        <item>Country 3 </item>
+        <item>Country 4 </item>
+        <item>Country 5 </item>
+    </string-array>
+    <string-array name="cities">
+        <item>Choose City</item>
+        <item>City 1</item>
+        <item>City 2</item>
+        <item>City 3</item>
+        <item>City 4</item>
+        <item>City 5</item>
+    </string-array>
+    <!-- Date Util -->
+
+    <string name="date_util_unit_second">sec</string>
+    <string name="date_util_unit_minute">min</string>
+    <string name="date_util_unit_hour">hr</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_yesterday">yesterday</string>
+
+    <string name="date_util_unit_week">week</string>
+    <string name="date_util_unit_weeks">weeks</string>
+
+    <string name="date_util_suffix" translatable="false">ago</string>
+    <string name="add_image">Add image</string>
+    <string name="city">City</string>
+    <string name="category">Category</string>
+    <string name="time" translatable="false">1 sec</string>
+
+    <string name="how_to_reach_us">How to reach us</string>
+    <string name="contact_us_text">We always welcome your comments and suggestions. If you have anything to say please contact us through our accounts.</string>
+    <string name="facebook_page_id" translatable="false">916855288328979</string>
+    <string name="twitter_page_id" translatable="false">802900112171298816</string>
+    <string name="back_to_exit">Press back again to exit</string>
+
+    <string name="question_details">Question Details</string>
+    <string name="nyou_are_not_alone" translatable="false">انت لست وحدك!
+        \n
+        You are not alone!
+    </string>
+    <string name="select_category">Select Category</string>
+
+    <string name="start_typing">
+         Start typing your answer…
+     </string>
+    <string name="write_your_answer">Write your answer</string>
+    <string name="reply_to_comment">Reply to comment</string>
+    <string name="start_typing_reply">Start typing your reply…</string>
+    <string name="delete">Delete</string>
+    <string name="NOTIFICATION_ANSWER">Answered your question</string>
+    <string name="NOTIFICATION_REPLY">Replied to your question</string>
+    <string name="NOTIFICATION_LIKE">Liked your answer</string>
+    <string name="NOTIFICATION_DISLIKE">Disliked your answer</string>
+    <string name="api_neutrino_key" translatable="false">snlka5RsVKx8mNf8ZGUYHWC5uyj4TLYJwuU4tNrShBAB1OSR</string>
+
+
+    <string name="browse_by_city">Browse by City</string>
+    <string name="nav_notifications" />
+</resources>

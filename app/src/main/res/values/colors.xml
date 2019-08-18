@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffec6a31</color>
+    <color name="colorPrimaryDark">#ffd01317</color>
+    <color name="colorAccent">#DC521E</color>
+    <color name="white">#FFF</color>
+    <color name="blue_text">#383F4D</color>
+    <color name="gray_background">#D6D6D6</color>
+    <color name="rv_answer_font">#FF383F4D</color>
+    <color name="tv_gray">#5b6263</color>
+</resources>
